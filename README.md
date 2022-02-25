@@ -1,6 +1,6 @@
 # Hello there 👋
 
-<img src="https://cdn.discordapp.com/attachments/946817974973657128/946818014253297704/hqdefault.jpg" width=100px height=100px align="right" />
+<img src="https://cdn.discordapp.com/attachments/946817974973657128/946818014253297704/hqdefault.jpg" width=200px height=200px align="right" />
 
 ## About Me
 
