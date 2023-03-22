@@ -1,9 +1,12 @@
 # Hello there 👋
 
-<img src="https://cdn.discordapp.com/attachments/946817974973657128/946818014253297704/hqdefault.jpg" width=200px height=200px align="right" />
-
 ## About Me
+Hi! My name is Davide Di Marco, I'm 23 years old, I was born in the little city of Lanciano(CH) but I'm currenty based in Milan. <br>
+I am a Computer Science and Engineering student at Politecnico di Milano. I love learning new things and use my knowledge to develop useful and silly projects.
+I mainly use GitHub to store and easily manage all the projects I work on. :octocat: <br>
+Some of them might be basic and not impressing at all, but everyone need to start from somewhere :man_shrugging:
 
-My name is Davide Di Marco, I'm 23 years old, I was born in the little city of Lanciano(CH) but I'm currenty based in Milan, where I study Computer Science. <br>
-My goal is to improve coding and I use GitHub to store and easily manage the projects I currently work on. :octocat:
+##Collab repositories
+I worked With [Giacomo Dell'Agosto](https://github.com/GiacomoDA) in a [Database Project](https://github.com/GiacomoDA/db2_jpa_project) for the Database II course, where we created, managed and deleted Telephone rates and checked the interaction between the user that was able to buy them and database response to the user's actions.
 
+I worked as a Level Design and Programmer for [iEllows](https://github.com/iellows) for the developing of a Videogame called [The Feline Paradox](https://github.com/iellows/TheFelineParadox) using the Unity Engine. Here I also get used to Houdini 3D Procedural software for the creation of the levels. 
