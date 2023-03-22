@@ -8,5 +8,5 @@ Some of them might be basic and not impressing at all, but everyone need to star
 
 <h2>Collab repositories</h2>
 
-I worked With [Giacomo Dell'Agosto](https://github.com/GiacomoDA) in a [Database Project](https://github.com/GiacomoDA/db2_jpa_project) for the Database II course, where we created, managed and deleted Telephone rates and checked the interaction between the user that was able to buy them and database response to the user's actions. <br>
-I worked as a Level Designer and Programmer for [iEllows](https://github.com/iellows) in the developing of a Videogame called [The Feline Paradox](https://github.com/iellows/TheFelineParadox) using the Unity Engine. Here I also get used to Houdini 3D Procedural software for the creation of the levels. 
+I worked With [Giacomo Dell'Agosto](https://github.com/GiacomoDA) in a [Database Project](https://github.com/GiacomoDA/db2_jpa_project) for the Database II course. In this little project an Admin can create, modify or delete Telephone rates and check the interaction with the user, that was able to "buy" them, so that we could see the database response to the user's actions. <br>
+I recently worked as a Level Designer and Programmer for [iEllows](https://github.com/iellows) in the developing of a Videogame called [The Feline Paradox](https://github.com/iellows/TheFelineParadox) using the Unity Engine. Here I also get used to Houdini 3D Procedural software for the creation of the buildings in each level. 
